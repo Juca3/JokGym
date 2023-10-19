@@ -3,6 +3,7 @@
 Este é um programa de treino projetado para ajudá-lo a atingir seus objetivos de condicionamento físico, seja você um atleta experiente ou alguém que está começando sua jornada de fitness.
 
 Visão Geral
+
 Este programa de treino oferece uma variedade de recursos e funcionalidades para ajudá-lo a obter os melhores resultados:
 
 Treinos Livres: Escolha entre uma variedade de exercícios e defina a intensidade de cada sessão.
